@@ -6,4 +6,4 @@ the repository contains 3 projects
 - detection of anomaly components algorithm - the main algorithm
 - data set creator - creats random data sets to check the algorithm
 
-the projects are sharing files with the same names. THE FILES ARE DIFERENT, DO NOT MIX BETWEEN THEM !!!
+the projects are sharing files with the same names. **THE FILES ARE DIFERENT, DO NOT MIX BETWEEN THEM !!!**
